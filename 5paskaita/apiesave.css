@@ -1,0 +1,58 @@
+.bold {
+    font-weight: bold;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+header {
+  text-align: center;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+  background-position: center center;
+  padding: 15px;
+
+}
+header nav a {
+    margin-right: 15px;
+    color: white;
+}
+header img {
+    max-width: 100px;
+
+}
+main {
+    background-color: rgb(225, 232, 232);
+    max-width: 500px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 5px 10px 5px #888888; 
+}
+section h3 {
+    text-align: center;
+}
+section p {
+    text-align: justify;
+}
+li label {
+    display: inline-block;
+    width: 100px;
+}
+footer {
+    text-align: center;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+    padding: 20px;
+    padding-top: 5px;
+}
+footer a {
+    text-decoration: none;
+    background-color: rgb(54, 147, 147);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
+footer p {
+    color: white;
+}

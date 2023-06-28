@@ -1,0 +1,22 @@
+p {
+    color: red;
+}
+p:hover {
+    color: blue;
+
+}
+input[type='text' ] :focus {
+    background-color: blanchedalmond;
+}
+nput[type='text' ] :focus {
+    border: 2px solid blue;
+}
+input[type='checkbox' ] {
+    border: 2px solid red;
+    background-color: red;
+    color: red;
+    accent-color: red;
+}
+input[type='checkbox' ] :checked {
+background-color: blueviolet;
+}

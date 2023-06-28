@@ -1,0 +1,20 @@
+header, section, footer {
+    background-color: rgb(235, 230, 230);
+}
+.par-with {
+    width: 50%;
+    display: inline-block;
+}
+.Logo {
+    width: 100px;
+    
+}
+nav { display: inline;
+
+}
+.center-text {
+    text-align: center;
+}
+.monkey-size {
+width: 30%;
+}
